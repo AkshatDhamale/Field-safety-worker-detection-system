@@ -1,0 +1,10 @@
+Coverall
+Face_shield
+Gloves
+Goggles
+Mask
+head
+helmet
+person
+safety_shoe
+vest
